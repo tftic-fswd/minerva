@@ -1,0 +1,12 @@
+[submodule "minerva-api"]
+	path = minerva-api
+	url = https://github.com/alexandrelamberty/minerva-api
+[submodule "minerva-api-spec"]
+	path = minerva-api-spec
+	url = https://github.com/alexandrelamberty/minerva-api-spec
+[submodule "minerva-web-app"]
+	path = minerva-web-app
+	url = https://github.com/alexandrelamberty/minerva-web-app
+[submodule "minerva-rm"]
+	path = minerva-rm
+	url = https://github.com/alexandrelamberty/minerva-rm
